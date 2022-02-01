@@ -1,5 +1,5 @@
 # FetchRewardsDataAnalyst
-##### Files:
+### Files:
 Data - Json and csv files <br>
 Data Preprocessing.ipynb - This file consist of data preprocessing and cleaning in python.<br>
 Data_issues.txt - This file includes the data discrepancies in the data given.<br>
