@@ -1,0 +1,21 @@
+Hello Team,
+
+Hope you are doing well.
+
+I am Divyanshu Bhardwaj, Data Analyst at Fetch Rewards. I am writing you this email to get clarification regarding some issues which I am facing while cleaning the data which is provided by you.
+
+1. While preprocessing the data I have found excessive missing or blank data which will raise issue on the credibility of insights drawn.
+2. There is discrepancy on the barcode, as for different brands the bar code is same.
+3. Unix data types are used in the Date fields. A uniform date format can aid in the reduction of date difficulties and the efficient analysis of data.
+
+The above points are the main issues that were found while cleaning and querying the SQL. These issues can be resolved by collecting the data efficiently so that there are no missing as well as discrepancies in the data.
+
+Also, a well formated data will help in getting more credible insights resulting in less errors for the predictive modeling in production.
+
+Please let me know your availability so that we can fix this together.
+
+Best,
+Divyanshu Bhardwaj
+Data Analyst
+
+

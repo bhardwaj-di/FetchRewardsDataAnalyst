@@ -1,0 +1,7 @@
+As per my observation I found below points had data issues in the data provided.
+1. There were in total approximate 2500 null values in 1119 records in just "receipt.json" file.
+2. There are lots of redundant data in the "user.json" file.
+3. In Receipts and User Data 'date' columns are in UNIX timestamp format, which needs to be converted into standard DateTime format.
+4. Creating a rewardreceiptitemlist does not contribute much to insights as there is excess missing data.
+5. In "brand.json" the barcode is same for different brand.
+6. In "brand.json" (brandCode, topBrand, category) columns records are missing which is essential part for understanding the data.
